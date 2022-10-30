@@ -44,7 +44,7 @@ import os
   
  def logo(): 
      print """ 
- - Powered by Mr. SAGE  
+ - Powered by NAVY  
  """ 
  bughunterlogo = """\033[0m 
    __________                 ___ ___               __                  
